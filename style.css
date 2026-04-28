@@ -65,6 +65,8 @@ margin-bottom: 20px;
 text-align: left;
 }
 
+.pap-preview{
+image-size: 120px;
 }
 .pap-text {
 font-size: 0.9em;
