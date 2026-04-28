@@ -51,6 +51,20 @@ header {
     transition: 0.3s;      /* Suaviza a animação de toque */
 }
 
+/* Cor de destaque para o botão da PAP */
+.btn-pap {
+background-color: #2ecc71; /* Verde esmeralda */
+color: white !important;
+}
+/* Estilo para o conteúdo descritivo */
+.pap-content {
+background: rgba(255, 255, 255, 0.1);
+padding: 20px;
+border-radius: 12px;
+margin-bottom: 20px;
+text-align: left;
+}
+
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
     background-color: #3498db;
