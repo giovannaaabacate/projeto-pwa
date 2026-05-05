@@ -53,7 +53,7 @@ header {
 
 /* Cor de destaque para o botão da PAP */
 .btn-pap {
-background-color: #2ecc71; /* Verde esmeralda */
+background-color: #3498db; 
 color: white !important;
 }
 /* Estilo para o conteúdo descritivo */
@@ -69,6 +69,13 @@ text-align: left;
 font-size: 0.9em;
 line-height: 1.5;
 color: #bdc3c7;
+}
+
+.pap-preview.jpg{
+
+    width: 360px;
+    height: 450px;
+    
 }
 
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
