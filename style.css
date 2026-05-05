@@ -71,13 +71,6 @@ line-height: 1.5;
 color: #bdc3c7;
 }
 
-.pap-preview.jpg{
-
-    width: 291px;
-    height: 364px;
-    
-}
-
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
     background-color: #3498db;
