@@ -65,6 +65,10 @@ margin-bottom: 20px;
 text-align: left;
 }
 
+.pap-preview.jpg{
+text-align: center;
+}
+
 .pap-text {
 font-size: 0.9em;
 line-height: 1.5;
