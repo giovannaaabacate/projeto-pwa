@@ -65,10 +65,15 @@ margin-bottom: 20px;
 text-align: center;
 }
 
+.papimage{
+text-align: center;
+}
+
 .pap-text {
 font-size: 0.9em;
 line-height: 1.5;
 color: #bdc3c7;
+text-align: center;
 }
 
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
